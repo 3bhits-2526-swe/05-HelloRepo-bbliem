@@ -12,3 +12,8 @@ jetzt möchte ich die Onlineänderung auch Lokal haben
 Lessions Learned
 # Anlegen GitRepo mit gitnore und readme
 # Bascik Worklfow git <-> GitHub
+
+
+     Aenderungen durchgefuehrt
+
+  
