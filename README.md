@@ -7,6 +7,7 @@ Kurze Beschreibung des Projektes: Einführungs in Github mit git
 Entwicklungsplattform: Windows 11 Pro
 
 Habe 2x Geclont und 1x gepusht
+jetzt möchte ich die Onlineänderung auch Lokal haben
 
 Lessions Learned
 # Anlegen GitRepo mit gitnore und readme
